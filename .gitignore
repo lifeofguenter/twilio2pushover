@@ -1,0 +1,8 @@
+.DS_Store
+*~
+/.idea/
+/.env
+
+# python
+/.venv/
+/__pycache__/
